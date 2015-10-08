@@ -1,0 +1,32 @@
+{
+  "name": "lambda.AtomicES",
+  "authors": [
+    "Cleber de Moraes Goncalves <cleber.programmer@hotmail.com>"
+  ],
+  "description": "Uma expressão de função de seta (também conhecida como Arrow Function) tem uma sintaxe mais curta em comparação com expressões de função e lexically se liga a este valor",
+  "main": "dest/lambda.atomic-es.min.js",
+  "keywords": [
+    "javascript"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/AtomicES/lambda",
+  "ignore": [
+    "**/.*",
+    "modules",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "AtomicES": "*",
+    "format.AtomicES": "*"
+  },
+  "_release": "cd04eb7d2e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "cd04eb7d2eead24823eb09e2417cc6e1c3890ee6"
+  },
+  "_source": "git://github.com/AtomicES/lambda.git",
+  "_target": "*",
+  "_originalSource": "lambda.AtomicES"
+}

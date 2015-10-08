@@ -1,0 +1,23 @@
+{
+  "name": "format.AtomicES",
+  "version": "0.0.0",
+  "authors": [
+    "Cleber de Moraes Goncalves <cleber.programmer@hotmail.com>"
+  ],
+  "description": "Formatador de texto",
+  "main": "dest/format.atomic-es.min.js",
+  "keywords": [
+    "javascript"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/AtomicES/format",
+  "ignore": [
+    "**/.*",
+    "modules",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "AtomicES": "*"
+  }
+}

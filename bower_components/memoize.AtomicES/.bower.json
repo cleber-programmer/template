@@ -1,0 +1,31 @@
+{
+  "name": "memoize.AtomicES",
+  "authors": [
+    "Cleber de Moraes Goncalves <cleber.programmer@hotmail.com>"
+  ],
+  "description": "Uma técnica útil para otimização de cache os resultados das chamadas de função de tal forma que as pesquisas longos ou cálculos recursivos caros pode ser minimizado sempre que possível",
+  "main": "dest/memoize.atomic-es.min.js",
+  "keywords": [
+    "javascript"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/AtomicES/memoize",
+  "ignore": [
+    "**/.*",
+    "modules",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "AtomicES": "*"
+  },
+  "_release": "6d6246f421",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "6d6246f4213743058cb708c2c1a281ba625e9abe"
+  },
+  "_source": "git://github.com/AtomicES/memoize.git",
+  "_target": "*",
+  "_originalSource": "memoize.AtomicES"
+}
