@@ -1,0 +1,27 @@
+{
+  "name": "template.AtomicES",
+  "version": "0.0.0",
+  "description": "Micro template com recursos do puro do javascript a funcao curry e com memoizacao para evitar processamento repitidos",
+  "main": "dest/template.atomic-es.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AtomicES/template.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Cleber de Moraes Goncalves <cleber.programmer@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AtomicES/template/issues"
+  },
+  "homepage": "https://github.com/AtomicES/template",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^1.3.0"
+  }
+}
